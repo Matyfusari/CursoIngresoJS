@@ -10,7 +10,8 @@ function mostrar()
  let acumJ = 0;
  let acumA = 0;
  let contB = 0;
- let contA = 0;
- let contA = 0;
+ let contJ = 0;
+ let contA = 0; 
+
  
-}
+} 
